@@ -12,24 +12,24 @@ new Vue({
         {
           name: "Aagaya Suriyanai",
           artist: "Sowbakiya",
-          cover:  "/Users/subhashsandhars/Documents/MUSIC_APP/subhashsras.github.io/img/music-is-life-itself-louis-armstrong-quote-1024x1024.jpg",
-          source: "/Users/subhashsandhars/Documents/MUSIC_APP/subhashsras.github.io/mp3/Aagaya Suriyanai.mp3",
+          cover:  "subhashsras.github.io/img/music-is-life-itself-louis-armstrong-quote-1024x1024.jpg",
+          source: "subhashsras.github.io/mp3/Aagaya Suriyanai.mp3",
           url: "https://www.youtube.com/watch?v=LAe6zwJojPg",
           favorited: false
         },
         {
           name: "Nenjangootil",
           artist: "Sowbakiya",
-          cover:  "/Users/subhashsandhars/Documents/MUSIC_APP/subhashsras.github.io/img/Music-Quotes.jpg",
-          source: "/Users/subhashsandhars/Documents/MUSIC_APP/subhashsras.github.io/mp3/Nenjangootil.mp3",
+          cover:  "subhashsras.github.io/img/Music-Quotes.jpg",
+          source: "subhashsras.github.io/mp3/Nenjangootil.mp3",
           url: "https://www.youtube.com/watch?v=IqtE8_r_W7s",
           favorited: false
         },
         {
           name: "En Iniya Pon Nilave",
           artist: "Sowbakiya",
-          cover: "/Users/subhashsandhars/Documents/MUSIC_APP/subhashsras.github.io/img/2bc4874dc9b0894a762080165b457005.jpg",
-          source: "/Users/subhashsandhars/Documents/MUSIC_APP/subhashsras.github.io/mp3/En Iniya Pon Nilave.mp3",
+          cover: "subhashsras.github.io/img/2bc4874dc9b0894a762080165b457005.jpg",
+          source: "subhashsras.github.io/mp3/En Iniya Pon Nilave.mp3",
           url: "https://www.youtube.com/watch?v=28jJhGUaBYs",
           favorited: false
         },
